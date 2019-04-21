@@ -24,7 +24,12 @@ Neste package encontram-se os tipos de producers que podem ser utilizados para p
 Neste package encontram-se scripts para facilitar a interação com o Rabbit encapsulando certas configurações redundantes para o trabalho com Exchanges, Queues, Publishs e Consumes.
 
 ## Executando Localmente
-Em breve...
+Em breve :-)
+
+## Future Steps
+    - Criar docker-compose.yml
+    - Criar o Akiva de fato
+    - Testes de publicações em massa
 
 ## Tecnologias
 - Golang
